@@ -1,13 +1,12 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Pradeep assignment
 
-## The first function, `makeVector` creates a special "vector", which is
+## The first function, `makeCacheMatrix` creates a special "matrix", which is
 ## really a list containing a function to
 
-## 1.  set the value of the vector
-## 2.  get the value of the vector
-## 3.  set the value of the mean
-## 4.  get the value of the mean
+## 1.  set the value of the matrix
+## 2.  get the value of the matrix
+## 3.  set the value of the inverse
+## 4.  get the value of the inverse
 
 ##please note that I have used inv fucntion from matlib package in my program
 
